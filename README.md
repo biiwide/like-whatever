@@ -54,7 +54,7 @@ Maps
 
 ## License
 
-Copyright © 2020 FIXME
+Copyright © 2020 Theodore Cushman
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
